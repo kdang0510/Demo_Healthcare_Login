@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get started</name>
+   <tag></tag>
+   <elementGuidId>ccfbd15b-96e6-4dd9-8b2a-476695042ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn_get_started.trackable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f38c4cba-3f09-41aa-b7e3-485d5529b427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_get_started trackable</value>
+      <webElementGuid>aac4956c-f736-4b1b-a4e4-b6d2ba388025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>Get started header Button Clicked</value>
+      <webElementGuid>f29e2fd8-9296-44fe-8bec-fa0972bbfc78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User acquisition</value>
+      <webElementGuid>98e92e58-1af0-4426-ab52-d93d0d7ddbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-label</name>
+      <type>Main</type>
+      <value>New Platfrom Home Page Sep 2022</value>
+      <webElementGuid>f1795da3-45c9-4348-9d20-3b5791af0987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rnd-last-action-id</name>
+      <type>Main</type>
+      <value>b0d39907-9219-4d5b-a7ba-46fab8e7b2d6</value>
+      <webElementGuid>aaa865a2-a6c6-402c-8f8e-0acecdb5891a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started</value>
+      <webElementGuid>2729cefb-dc9d-4ce4-9077-f3c11cd13603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;HomePage_wrapHomePage__zdHwS&quot;]/section[@class=&quot;hero_section&quot;]/div[@class=&quot;hero_btn&quot;]/a[@class=&quot;btn_get_started trackable&quot;]</value>
+      <webElementGuid>9825a0ba-eec0-474d-acd9-d2098fbb5fa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/div[4]/a</value>
+      <webElementGuid>016350f5-bf12-47dc-9581-0673286eba0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get started')]</value>
+      <webElementGuid>e9f1701b-f30f-4936-ba3d-0df81e874169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='quality management platform'])[1]/following::a[1]</value>
+      <webElementGuid>67e07a34-c3fd-4343-a5ef-d11e19108361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View a demo'])[1]/preceding::a[1]</value>
+      <webElementGuid>5611151c-9e3d-43d3-bdcf-e3456b8be992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get started']/parent::*</value>
+      <webElementGuid>c60a8ac8-23cc-4121-aa75-576ea352232e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[4]/a</value>
+      <webElementGuid>89ca3477-3776-436d-a2a2-31d921d6109d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Get started' or . = 'Get started')]</value>
+      <webElementGuid>2c1894b2-53e7-4793-880a-2dc844e02797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

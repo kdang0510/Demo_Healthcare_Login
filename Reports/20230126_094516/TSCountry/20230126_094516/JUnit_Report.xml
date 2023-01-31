@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TSCountry" time="220.681" tests="1" failures="0" errors="0">
+   <testsuite name="TSCountry" tests="1" failures="0" errors="0" time="220.681" skipped="0" timestamp="2023-01-26 09:45:29" hostname="khang.dang - 192.168.1.9" id="Test Suites/TSCountry">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/khang.dang/Desktop/UserTest/Reports/20230126_094516/TSCountry/20230126_094516"/>
+         <property name="logFiles" value="/Users/khang.dang/Desktop/UserTest/Reports/20230126_094516/TSCountry/20230126_094516/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="khang.dang - 192.168.1.9"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{
+  &quot;acceptInsecureCerts&quot;: false,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;browserVersion&quot;: &quot;106.0.5249.119&quot;,
+  &quot;chrome&quot;: {
+    &quot;chromedriverVersion&quot;: &quot;106.0.5249.21 (71f4e2c9a6f38f5550a8ea29a984a08304554956-refs/branch-heads/5249@{#228})&quot;,
+    &quot;userDataDir&quot;: &quot;C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\scoped_dir1568_539232742&quot;
+  },
+  &quot;goog:chromeOptions&quot;: {
+    &quot;debuggerAddress&quot;: &quot;localhost:49891&quot;
+  },
+  &quot;javascriptEnabled&quot;: true,
+  &quot;katalon:option&quot;: {
+    &quot;unlimitedExecutionMinutes&quot;: true,
+    &quot;apiKey&quot;: &quot;1327ded1-ce91-409e-ad90-049b5f61b39d&quot;,
+    &quot;jwt&quot;: &quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJraGFuZy5kYW5nQGthdGFsb24uY29tIiwidXBuIjoiNzM5NTg2IiwiZ3JvdXBzIjpbIkFETUlOIiwiVVNFUiJdLCJzdGF0dXMiOiJWRVJJRklFRCIsImdpdmVuX25hbWUiOiJEQU5HIiwiZmFtaWx5X25hbWUiOiJLaGFuZyIsImVtYWlsIjoia2hhbmcuZGFuZ0BrYXRhbG9uLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJjcmVhdGVkX2F0IjoxNjI5NDU1NTA2LCJ1cGRhdGVkX2F0IjoxNjc0NzAwMzU0LCJhbXIiOlsicHdkIl0sImlhdCI6MTY3NDcwMDM5NywiZXhwIjoxNjc1MzA1MTk3LCJqdGkiOiJiOWU0ZTVhNi0zMjhmLTQ3ZTgtOGE4Yi00MjY3OTI4ZWM2MWMiLCJpc3MiOiJrYXRhbG9uLWF1dGgifQ.GHNnMncNJteCGqeUmYoAngutR3rVjIwgxgNIjK944QYH-IpXruMcflzqeupZ3b3Bu5QP1mcTypHCHdCdbEuua2-C7KBSStSzKocQmr0YRhh-smx7HlNUUO8bUrKmMdTemk5XzlIilvfvFxAUBMn40xHY-jSJjBvPgmhqrHt5znJBmi24kPE1uIyuZ9s1dSj3G8Fs2ba3TWLyl0XypQRazXUpwG0R3FJaxMLH2OFsPCikd1DhMLp6yqSec0Fj-BhmScLe_JhsTFvxO_RyanufOdn940L6wyNkvXOyw_sHFkkJ7eW0X1CKj666rEER_6J--3Fzoksm-RSujSfZj2j2VQ&quot;,
+    &quot;tunnelMetadataId&quot;: &quot;bbc52fad-e818-4a7d-8c52-1e5c6d99a0fc&quot;,
+    &quot;secret&quot;: &quot;8acf2f557188a065972c7162443b104b4ba84e53&quot;,
+    &quot;userId&quot;: 739586,
+    &quot;organizationId&quot;: &quot;255036&quot;,
+    &quot;class&quot;: &quot;com.katalon.testcloud.grid.common.tunnel.domain.UserOptionCapability&quot;,
+    &quot;tenant&quot;: &quot;KatalonStudio&quot;,
+    &quot;usingTunnel&quot;: true,
+    &quot;username&quot;: &quot;khang.dang@katalon.com&quot;,
+    &quot;group&quot;: &quot;5a3735d2-67a9-439b-aa6b-67f0978d8786&quot;
+  },
+  &quot;networkConnectionEnabled&quot;: false,
+  &quot;os&quot;: &quot;windows&quot;,
+  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,
+  &quot;platform&quot;: &quot;WINDOWS&quot;,
+  &quot;platformName&quot;: &quot;WINDOWS&quot;,
+  &quot;proxy&quot;: {
+    &quot;proxyType&quot;: &quot;PAC&quot;,
+    &quot;autodetect&quot;: false,
+    &quot;proxyAutoconfigUrl&quot;: &quot;http://tunnel-manager-internal.katalon.com/pac/bbc52fad-e818-4a7d-8c52-1e5c6d99a0fc.pac&quot;
+  },
+  &quot;requestId&quot;: &quot;1a98d051-92bf-4575-a596-09bed11e3f32&quot;,
+  &quot;se:cdp&quot;: &quot;ws://10.0.2.2:4444/session/d78cc1cd6644013f4efcba460b8da029/se/cdp&quot;,
+  &quot;se:cdpVersion&quot;: &quot;106.0.5249.119&quot;,
+  &quot;setWindowRect&quot;: true,
+  &quot;strictFileInteractability&quot;: false,
+  &quot;timeouts&quot;: {
+    &quot;implicit&quot;: 0,
+    &quot;pageLoad&quot;: 300000,
+    &quot;script&quot;: 30000
+  },
+  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,
+  &quot;webauthn:extension:credBlob&quot;: true,
+  &quot;webauthn:extension:largeBlob&quot;: true,
+  &quot;webauthn:virtualAuthenticators&quot;: true
+}"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 106.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="d78cc1cd6644013f4efcba460b8da029"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Testcloud" time="220.42" classname="Test Cases/Testcloud" status="PASSED">
+         <system-out><![CDATA[2023-01-26 09:45:30 - [TEST_CASE][PASSED] - Test Cases/Testcloud: Test Cases/Testcloud
+
+2023-01-26 09:45:30 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: TestCloud - Windows, Chrome version=106, Tunnel=true
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2023-01-26 09:45:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - User set preference: ['browserVersion', '106']
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=255036, tunnelId=bbc52fad-e818-4a7d-8c52-1e5c6d99a0fc, usingTunnel=true}']
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+2023-01-26 09:45:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-26 09:48:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-26 09:48:34 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-01-26 09:48:45 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-01-26 09:48:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-01-26 09:48:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-01-26 09:48:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2023-01-26 09:48:59 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2023-01-26 09:48:59 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2023-01-26 09:49:03 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2023-01-26 09:49:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-01-26 09:49:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-01-26 09:49:10 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-01-26 09:49:10 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: TestCloud - Windows, Chrome version=106, Tunnel=true
+
+2023-01-26 09:49:10 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: TestCloud - Windows, Chrome version=106, Tunnel=true]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-01-26 09:45:29 - [TEST_SUITE][PASSED] - TSCountry: Test Cases/Testcloud]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RetirementPlanner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84bb78ca-f7d6-4ae3-a9ec-99165391daae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>131af19d-ba6e-4f07-b9a7-39d2f1c18e11</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'China'</defaultValue>
+      <description></description>
+      <id>131af19d-ba6e-4f07-b9a7-39d2f1c18e11</id>
+      <masked>false</masked>
+      <name>CountryName</name>
+   </variable>
+</TestCaseEntity>

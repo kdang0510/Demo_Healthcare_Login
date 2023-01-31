@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Oliver  Liam  Chris  Eve</name>
+   <tag></tag>
+   <elementGuidId>a2414221-7ae3-43a9-8f10-22b13b72bf25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='agents']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#agents</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e0753b61-42ad-4170-af72-b5529bd80351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>agens</value>
+      <webElementGuid>7d5f82dd-bbb0-4544-a1bd-273ab961bff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>agents</value>
+      <webElementGuid>ff29a5c2-09aa-431b-8763-4539f96e89a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Oliver
+  Liam
+  Chris
+  Eve
+</value>
+      <webElementGuid>36a60dfb-2ccb-4238-947b-9e7c673f359b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agents&quot;)</value>
+      <webElementGuid>87371986-0d04-48cf-b9f2-8c88abcecacd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='agents']</value>
+      <webElementGuid>88ef3ee9-dbad-4454-a78a-2c8074420f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose an agent:'])[1]/following::select[1]</value>
+      <webElementGuid>9a5da8c4-8737-4648-931c-926db199175a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'agents', '&quot;', ')/option[1]')])[1]/preceding::select[1]</value>
+      <webElementGuid>a956ef96-fd38-4eae-8965-ea2fbe54e704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>2273e325-506c-4d7f-b561-3816ac43f0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'agens' and @id = 'agents' and (text() = '
+  Oliver
+  Liam
+  Chris
+  Eve
+' or . = '
+  Oliver
+  Liam
+  Chris
+  Eve
+')]</value>
+      <webElementGuid>74ff06cc-2343-4141-b279-d97d261f1eb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
